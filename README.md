@@ -17,6 +17,6 @@ Telegram: [Cipher_Airdrop](https://t.me/+tFmYJSANTD81MzE1)
 Cipher_Airdrop aims to assist individuals without coding or Linux expertise. Follow the guide below for a one-click setup of your NodePay B0T.👏😒
 
 <h2>✨Guide Link✨</h2>
-<p>🔷Open link: </p><br>
+<p>🔷Open link: https://medium.com/@cipher_airdrop/nodepay-b0t-ff02c2070e81 </p><br>
 
 <h3>That's it for now!!!👿</h3>
